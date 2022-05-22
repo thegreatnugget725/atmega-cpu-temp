@@ -1,5 +1,5 @@
-#ifndef AVR_CPU_Temprature_h
-#define AVR_CPU_Temprature_h
+#ifndef atmega-cpu-temp_h
+#define atmega-cpu-temp_h
 
 #include "Arduino.h"
 
